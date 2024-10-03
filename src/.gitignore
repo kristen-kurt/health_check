@@ -1,5 +1,6 @@
-node_modules/
+/node_modules
 /build
 /src/styles/tailwind.css
 pnpm-debug.log*
+.DS_Store
 
